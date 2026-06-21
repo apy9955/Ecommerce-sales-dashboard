@@ -5,6 +5,17 @@ This project is an interactive E-Commerce Sales Dashboard built using Google Loo
 
 The objective of this project is to analyze sales performance across different categories, markets, countries, states, shipping modes, and time periods while predicting future sales trends.
 
+
+# Live Dashboard
+
+View Dashboard Here:
+
+https://lookerstudio.google.com/...
+
+# Dashboard Preview
+
+![Dashboard]([ecommerce-sales-dashboard.png](https://datastudio.google.com/reporting/64499198-85b7-45ee-b7eb-79bab7c0a202))
+
 ---
 
 ## 🎯 Dashboard Features
